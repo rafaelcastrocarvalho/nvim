@@ -226,6 +226,8 @@ return {
         -- ts_ls = {},
         --
 
+        ruby_lsp = {},
+
         elixirls = {},
 
         lua_ls = {
